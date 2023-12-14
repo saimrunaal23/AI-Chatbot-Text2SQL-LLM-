@@ -1,4 +1,4 @@
-﻿Team Design Challenge: Conversational Bot with Semantic Parsing
+Design Challenge: Conversational Bot with Semantic Parsing
 Project File Structure:
 
 
